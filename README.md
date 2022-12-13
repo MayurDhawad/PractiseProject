@@ -1,2 +1,0 @@
-# PractiseProject
-For Practice Purpose
